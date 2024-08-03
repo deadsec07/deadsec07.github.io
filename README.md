@@ -5,7 +5,7 @@
 
 > 4x AWS | 1x GOOGLE | PenTest+ | Cloud Solutions Architect | Security Specialist | SysOps | Gitops | Web Developer
 
-# GitHub Pages Demo
+<!-- # GitHub Pages Demo
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
@@ -254,4 +254,4 @@ In this demo, we are using the **gh-pages** branch to publish the website. You c
 - [Writing on GitHub](https://docs.github.com/en/github/writing-on-github): Learn about writing and formatting syntax.
 - [Committing changes to your project](https://docs.github.com/en/github/committing-changes-to-your-project): Learn about commits.
 - [Working with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
-- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/) [[PDF](https://training.github.com/downloads/github-git-cheat-sheet.pdf)]
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/) [[PDF](https://training.github.com/downloads/github-git-cheat-sheet.pdf)] -->
